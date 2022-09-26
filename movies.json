@@ -1,0 +1,83 @@
+[
+  {
+    "Id": "m1",
+    "Title": "The Lion King",
+    "Year": 2019,
+    "GenreId": 1,
+    "RunTime": "118 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_SX300.jpg",
+    "AverageRating": 2.0
+  },
+  {
+    "Id": "m2",
+    "Title": "Mowgli: Legend of the Jungle",
+    "Year": 2018,
+    "GenreId": 5,
+    "RunTime": "104 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODc2NzU5MV5BMl5BanBnXkFtZTgwNTMwMTE3NjM@._V1_SX300.jpg",
+    "AverageRating": 3.0
+  },
+  {
+    "Id": "m3",
+    "Title": "Doctor Strange",
+    "Year": 2016,
+    "GenreId": 2,
+    "RunTime": "115 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+    "AverageRating": 4.0
+  },
+  {
+    "Id": "m4",
+    "Title": "John Wick",
+    "Year": 2014,
+    "GenreId": 3,
+    "RunTime": "101 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "AverageRating": 5.0
+  },
+  {
+    "Id": "m5",
+    "Title": "The Notebook",
+    "Year": 2004,
+    "GenreId": 4,
+    "RunTime": "123 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "AverageRating": 6.0
+  },
+  {
+    "Id": "m6",
+    "Title": "The Kashmir Files",
+    "Year": 2021,
+    "GenreId": 5,
+    "RunTime": "200 min",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg",
+    "AverageRating": 7.0
+  },
+  {
+    "Id": null,
+    "Title": "The Kashmir Files 2",
+    "Year": 2020,
+    "GenreId": 1,
+    "RunTime": "200 min",
+    "Poster": null,
+    "AverageRating": 0.0
+  },
+  {
+    "Id": "ae063a24-b8f1-4751-ae55-e619752d61c8",
+    "Title": "string",
+    "Year": 0,
+    "GenreId": 0,
+    "RunTime": "string",
+    "Poster": "string",
+    "AverageRating": 0.0
+  },
+  {
+    "Id": "11e61b0b-b2fe-4c49-ac76-3d1612b9d87e",
+    "Title": "string",
+    "Year": 2022,
+    "GenreId": 0,
+    "RunTime": "string",
+    "Poster": "string",
+    "AverageRating": 10.0
+  }
+]

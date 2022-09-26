@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "632f6006e322eed6dbd1b4b7",
+    "email": "movieuser1@auth.com",
+    "name": "movieuser1@auth.com",
+    "nickname": "movieuser1"
+  },
+  {
+    "Id": "632f609a4c280267847a4ef4",
+    "email": "movieuser2@auth.com",
+    "name": "movieuser2@auth.com",
+    "nickname": "movieuser2"
+  },
+  {
+    "Id": "632f60ec9658d4814918762b",
+    "email": "movieadmin1@auth.com",
+    "name": "movieadmin1@auth.com",
+    "nickname": "movieadmin1"
+  },
+  {
+    "Id": "632f6153f67e8d09609bf542",
+    "email": "moviesuperadmin1@auth.com",
+    "name": "moviesuperadmin1@auth.com",
+    "nickname": "moviesuperadmin1"
+  },
+  {
+    "Id": "testuserId",
+    "email": "testuserId@example.com",
+    "name": "testuserId@example.com",
+    "nickname": "testuserId"
+  }
+]
